@@ -1,6 +1,6 @@
 <p>
   <samp>
-  Hello, I'm Joddy an undergraduated Computer Science student at BINUS University. Currently learning in JavaScript environment and all of that stuff.
+  Hello, I'm Joddy an undergraduate Computer Science student at BINUS University. I'm currently learning on the JavaScript ecosystem and all of that stuff.
   </samp>
 </p>
 

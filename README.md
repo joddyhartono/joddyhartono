@@ -1,4 +1,14 @@
-## Hi there 👋
+<p>
+  <samp>
+  Hello, I'm Joddy an undergraduated Computer Science student at BINUS University. Currently learning in JavaScript environment and all of that stuff.
+  </samp>
+</p>
+
+### Connect with me :smiley:
+<a href="https://www.linkedin.com/in/joddy-hartono-a42940293/">
+  <img align="left" alt="Linkedin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
+</a>
+<br/><br/>
 
 <!--
 **joddyhartono/joddyhartono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+

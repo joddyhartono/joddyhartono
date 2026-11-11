@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/.NET-505050?style=for-the-badge&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-505050?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-505050?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 ### Playing around with
-<img src="https://img.shields.io/badge/Go-505050?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-505050?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Go-505050?style=for-the-badge&logo=go&logoColor=white" />
 
 <!--
 **joddyhartono/joddyhartono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
